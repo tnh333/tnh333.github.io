@@ -84,7 +84,7 @@ body {
   line-height: var(--bs-body-line-height);
   color: var(--bs-body-color);
   text-align: var(--bs-body-text-align);
-  background-color: 0dcaf0;
+  background-color: var(--bs-body-bg);
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -11289,6 +11289,6 @@ textarea.form-control-lg {
   }
 }
 body {
-  background: url("https://dummyimage.com/1920x1080/dee2e6/6c757d.jpg") no-repeat center center fixed;
+  background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thurstontalk.com%2F2017%2F01%2F23%2Fyelm-5-highlights-prairie%2F&psig=AOvVaw3PItCPPUEqbipTcFMkjAkx&ust=1649566569303000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNj_-L6YhvcCFQAAAAAdAAAAABAD") no-repeat center center fixed;
   background-size: cover;
 }
