@@ -40,4 +40,4 @@ Summary of your role
 [University 1]: http://www.uw.edu
 [University 2]: http://www.taskrabbit.com
 
-![Photo of UW](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.timeshighereducation.com%2Fnews%2Funiversity-washington-cancels-classes-over-coronavirus&psig=AOvVaw3PBJLa8LtolKK3WE3Y9z37&ust=1649563884871000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIDLgb6OhvcCFQAAAAAdAAAAABAD)
+![Photo of UW](https://rheumatology.uw.edu/sites/rheumatology.uw.edu/files/news_tiles/University-of-Washington-e1569276289826.jpg)
